@@ -1,5 +1,5 @@
 
-##  About Me<br><br>I work with data that isn’t always clear and turn it into something that is.<br> I’m learning to build projects that go beyond running, they actually make sense. I focus on real impact over polished metrics, and even when something works, I still ask why. <br>Quietly building depth, one project at a time.<br>
+##  About Me<br><br>I work with data that isn’t always dear to me and turn it into something that is.<br> I’m learning to build projects that go beyond running, they actually make sense. I focus on real impact over polished metrics, and even when something works, I still ask why. <br>Quietly building depth, one project at a time.<br>
 
 
 ## 🌐 Socials:
