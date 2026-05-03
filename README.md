@@ -1,5 +1,5 @@
-<h1 align="center">kalika ✿</h1>
-<p align="center"><i>soft systems, sharp thinking</i></p>
+<h1 align="center">Kalika</h1>
+<p align="center"><i>no clarity, no value</i></p>
 
 ---
 
