@@ -1,20 +1,18 @@
-<!-- TOP BANNER -->
+<!-- SOFT BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffd6e0&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2b2d42,100:8d99ae&height=120&section=header&text=kalika&fontColor=f8f9fa&fontSize=40&animation=fadeIn"/>
 </p>
 
-<h1 align="center">kalika ✿</h1>
-
 <p align="center">
-  <i>working with data, but never just numbers</i>
+  <i>soft systems, sharp thinking</i>
 </p>
 
 ---
 
-<!-- ABOUT CARD -->
+<!-- SCRAPBOOK INTRO -->
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
 
 ## 🌷 about
 
@@ -28,50 +26,32 @@ quietly building depth, one thoughtful project at a time.
 
 </td>
 
-<td width="40%">
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%"/>
+<td width="50%">
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
+
 </td>
 </tr>
 </table>
 
 ---
 
-## 🌐 connect
-
-<p>
-  <a href="https://linkedin.com/in/kalika01">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## ⚙️ tech i use
-
+<!-- COLLAGE STRIP -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,postgres,mongodb,aws,gcp,git,github" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-</p>
-
 ---
 
-## 📊 github
+## ✧ selected work
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalika9-debug&theme=rose_pine&hide_border=true&show_icons=true"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=kalika9-debug&theme=rose_pine&hide_border=true"/>
-</p>
+<table>
+<tr>
+<td width="50%">
 
----
+### ◼ credit risk model  
+predicting financial risk with explainability focus  
 
-<!-- PINTEREST STYLE FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffd6e0&height=100&section=footer"/>
-</p>
+```txt
+stack → python · sklearn · pandas  
+focus → interpretability > accuracy  
