@@ -8,17 +8,20 @@
 
 <td width="55%">
 
-## ♡ about me
-
 I work with data that isn’t always dear to me  
 and turn it into something that is.  
 
-learning to build systems that don’t just run,  
-but make sense.  
+I’m learning to build systems that don’t just run,  
+but make sense and explain themselves.  
 
-I care about why things work.  
+I care more about *why things work* than just making them work.  
 
-quietly building depth, one thoughtful project at a time.
+quietly building depth, one thoughtful project at a time.  
+
+<br>
+
+python · data analysis · machine learning · sql  
+pandas · numpy · scikit-learn · power bi  
 
 </td>
 
@@ -33,53 +36,16 @@ quietly building depth, one thoughtful project at a time.
 
 ---
 
-## ⚡ projects
-
-```txt
-▸ credit risk model  
-  → python · sklearn · pandas  
-
-▸ data storytelling dashboard  
-  → power bi · sql  
-
-▸ behavioral analysis  
-  → numpy · mlflow  
-
-▸ experimental builds  
-  → research-driven work  
-```
-
----
-
-## ⚙️ tech stack
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalika9-debug&theme=github-compact&hide_border=true"/>
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,mongodb,aws,gcp,git,github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kalika9-debug&show_icons=true&theme=default&hide_border=true"/>
 </p>
 
 ---
 
-## 🌐 connect
-
 <p align="center">
-  <a href="https://linkedin.com/in/kalika01">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
+  <i>soft work, sharp thinking.</i>
 </p>
-
----
-
-## 📊 stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalika9-debug&theme=tokyonight&hide_border=true&show_icons=true"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=kalika9-debug&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## ✧ note
-
-> not everything that works is understood.  
-> i'm here for the understanding.
