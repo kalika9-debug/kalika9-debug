@@ -54,10 +54,22 @@ quietly building depth, one thoughtful project at a time.
 </p>
 ---
 
+---
+
 <p align="center">
-  <img src="https://ghchart.rshah.org/f2a7b5/kalika9-debug" />
+  <img src="https://ghchart.rshah.org/e06686/kalika9-debug" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalika9-debug&theme=github-compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalika9-debug&show_icons=true&theme=default&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  <i>soft work, sharp thinking.</i>
 </p>
