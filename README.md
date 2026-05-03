@@ -45,7 +45,11 @@ quietly building depth, one thoughtful project at a time.
 </p>
 
 <p align="center">
-  product thinking · user understanding · data storytelling · communication · problem framing
+  <img src="https://img.shields.io/badge/product_thinking-1f1f1f?style=flat-square&logo=google-analytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/user_understanding-1f1f1f?style=flat-square&logo=persona&logoColor=white"/>
+  <img src="https://img.shields.io/badge/data_storytelling-1f1f1f?style=flat-square&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/communication-1f1f1f?style=flat-square&logo=wechat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/problem_framing-1f1f1f?style=flat-square&logo=abstract&logoColor=white"/>
 </p>
 
 ---
