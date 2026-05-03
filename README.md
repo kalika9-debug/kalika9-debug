@@ -71,5 +71,5 @@ quietly building depth, one thoughtful project at a time.
 ---
 
 <p align="center">
-  <i>soft work, sharp thinking.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e06686,100:f8c1cc&height=100&section=footer"/>
 </p>
