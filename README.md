@@ -1,6 +1,6 @@
 <!-- HERO -->
 <p align="center">
-  <img src="./assets/main.png" width="80%" style="border-radius:12px;"/>
+  <img src="PASTE_MAIN_IMAGE_LINK_HERE" width="80%"/>
 </p>
 
 <h1 align="center">kalika ✿</h1>
@@ -8,7 +8,6 @@
 
 ---
 
-<!-- ABOUT + STICKER -->
 <table>
 <tr>
 <td width="60%">
@@ -27,7 +26,7 @@ quietly building depth, one thoughtful project at a time.
 
 <td width="40%" align="center">
 
-<img src="./assets/anime.png" width="85%"/>
+<img src="PASTE_ANIME_IMAGE_LINK_HERE" width="85%"/>
 
 </td>
 </tr>
@@ -35,39 +34,12 @@ quietly building depth, one thoughtful project at a time.
 
 ---
 
-<!-- MEME -->
 <p align="center">
-  <img src="./assets/meme.png" width="65%"/>
+  <img src="PASTE_MEME_IMAGE_LINK_HERE" width="65%"/>
 </p>
 
 ---
 
-## ✧ selected work
+## ✧ note
 
-<table>
-<tr>
-<td width="50%">
-
-### ◼ credit risk model  
-
-```txt
-stack → python · sklearn · pandas  
-focus → interpretability > accuracy  
-</td> <td width="50%">
-◼ data storytelling dashboard
-stack → powerbi · sql  
-focus → clarity + impact  
-</td> </tr> <tr> <td width="50%">
-◼ behavioral analysis
-stack → numpy · mlflow  
-focus → reasoning  
-</td> <td width="50%">
-◼ experimental builds
-stack → python  
-focus → depth  
-</td> </tr> </table>
-⚙️ tech
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,postgres,mongodb,aws,git" /> </p>
-✧ note
-
-soft work, sharp thinking.
+> soft work, sharp thinking.
