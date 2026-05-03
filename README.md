@@ -1,18 +1,17 @@
-<!-- SOFT BANNER -->
+<!-- HERO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2b2d42,100:8d99ae&height=120&section=header&text=kalika&fontColor=f8f9fa&fontSize=40&animation=fadeIn"/>
+  <img src="./assets/main.png" width="80%" style="border-radius:12px;"/>
 </p>
 
-<p align="center">
-  <i>soft systems, sharp thinking</i>
-</p>
+<h1 align="center">kalika ✿</h1>
+<p align="center"><i>soft systems, sharp thinking</i></p>
 
 ---
 
-<!-- SCRAPBOOK INTRO -->
+<!-- ABOUT + STICKER -->
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
 
 ## 🌷 about
 
@@ -26,9 +25,9 @@ quietly building depth, one thoughtful project at a time.
 
 </td>
 
-<td width="50%">
+<td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
+<img src="./assets/anime.png" width="85%"/>
 
 </td>
 </tr>
@@ -36,9 +35,9 @@ quietly building depth, one thoughtful project at a time.
 
 ---
 
-<!-- COLLAGE STRIP -->
+<!-- MEME -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,mongodb,aws,gcp,git,github" />
+  <img src="./assets/meme.png" width="65%"/>
 </p>
 
 ---
@@ -50,8 +49,25 @@ quietly building depth, one thoughtful project at a time.
 <td width="50%">
 
 ### ◼ credit risk model  
-predicting financial risk with explainability focus  
 
 ```txt
 stack → python · sklearn · pandas  
 focus → interpretability > accuracy  
+</td> <td width="50%">
+◼ data storytelling dashboard
+stack → powerbi · sql  
+focus → clarity + impact  
+</td> </tr> <tr> <td width="50%">
+◼ behavioral analysis
+stack → numpy · mlflow  
+focus → reasoning  
+</td> <td width="50%">
+◼ experimental builds
+stack → python  
+focus → depth  
+</td> </tr> </table>
+⚙️ tech
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,postgres,mongodb,aws,git" /> </p>
+✧ note
+
+soft work, sharp thinking.
