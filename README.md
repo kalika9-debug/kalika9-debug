@@ -3,6 +3,7 @@
 
 ---
 
+<!-- ABOUT + IMAGE -->
 <table>
 <tr>
 <td width="60%">
@@ -21,7 +22,7 @@ quietly building depth, one thoughtful project at a time.
 
 <td width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/kalika9-debug/kalika9-debug/main/main.png" width="95%"/>
+<img src="https://raw.githubusercontent.com/kalika9-debug/kalika9-debug/main/main.png" width="95%" style="border-radius:12px;"/>
 
 </td>
 </tr>
@@ -32,7 +33,8 @@ quietly building depth, one thoughtful project at a time.
 ## ✧ skills
 
 ```txt
-python      · data analysis · machine learning  
-sql         · data querying  
-pandas      · numpy         · scikit-learn  
-power bi    · data visualization  
+python        · data analysis · machine learning  
+sql           · data querying  
+pandas        · numpy         · scikit-learn  
+data viz      · power bi  
+problem solving · critical thinking  
