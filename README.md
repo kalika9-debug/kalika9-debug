@@ -3,26 +3,33 @@
 
 ---
 
-<!-- HERO -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kalika9-debug/kalika9-debug/main/main.png" width="70%" style="border-radius:12px;"/>
-</p>
+<table>
+<tr>
 
----
+<td width="55%">
 
-## 🖤 about me
+## ♡ about me
 
-```txt
 I work with data that isn’t always dear to me  
-and turn it into something that is.
+and turn it into something that is.  
 
-learning to build systems that don’t just run,
-but make sense.
+learning to build systems that don’t just run,  
+but make sense.  
 
-I care about why things work.
+I care about why things work.  
 
-quietly building depth, one project at a time.
-```
+quietly building depth, one thoughtful project at a time.
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://raw.githubusercontent.com/kalika9-debug/kalika9-debug/main/main.png" width="90%" style="border-radius:16px;"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
