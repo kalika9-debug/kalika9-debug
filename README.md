@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kalika9-debug/kalika9-debug/main/main.png" width="80%"/>
-</p>
-
 <h1 align="center">kalika ✿</h1>
 <p align="center"><i>soft systems, sharp thinking</i></p>
 
@@ -25,7 +21,7 @@ quietly building depth, one thoughtful project at a time.
 
 <td width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/kalika9-debug/kalika9-debug/main/anime.png" width="85%"/>
+<img src="https://raw.githubusercontent.com/kalika9-debug/kalika9-debug/main/main.png" width="95%"/>
 
 </td>
 </tr>
@@ -33,12 +29,10 @@ quietly building depth, one thoughtful project at a time.
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kalika9-debug/kalika9-debug/main/meme.png" width="65%"/>
-</p>
+## ✧ skills
 
----
-
-## ✧ note
-
-> soft work, sharp thinking.
+```txt
+python      · data analysis · machine learning  
+sql         · data querying  
+pandas      · numpy         · scikit-learn  
+power bi    · data visualization  
