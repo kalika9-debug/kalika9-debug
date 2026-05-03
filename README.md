@@ -71,5 +71,5 @@ quietly building depth, one thoughtful project at a time.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e06686,100:f8c1cc&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e06686,100:e06686&height=20&section=footer"/>
 </p>
