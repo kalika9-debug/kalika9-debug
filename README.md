@@ -16,12 +16,7 @@ but make sense and explain themselves.
 
 I care more about *why things work* than just making them work.  
 
-quietly building depth, one thoughtful project at a time.  
-
-<br>
-
-python · data analysis · machine learning · sql  
-pandas · numpy · scikit-learn · power bi  
+quietly building depth, one thoughtful project at a time.
 
 </td>
 
@@ -33,6 +28,23 @@ pandas · numpy · scikit-learn · power bi
 
 </tr>
 </table>
+
+---
+
+## ✧ skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,mysql,postgres,mongodb,aws,gcp,git,github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/powerbi-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+</p>
 
 ---
 
