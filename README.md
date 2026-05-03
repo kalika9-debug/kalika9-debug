@@ -34,7 +34,13 @@ quietly building depth, one thoughtful project at a time.
 ## ✧ skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,mysql,postgres,mongodb,aws,gcp,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,mongodb,aws,gcp,git,github,mysql" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/polars-1f1f1f?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
 <p align="center">
