@@ -31,19 +31,14 @@ quietly building depth, one thoughtful project at a time.
 
 ---
 
-## ✧ skills
+## Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,postgres,mongodb,aws,gcp,git,github,mysql" />
 </p>
 
-<br>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/polars-1f1f1f?style=flat-square&logo=python&logoColor=white"/>
-</p>
-
-<p align="center">
+  <img src="https://img.shields.io/badge/polars-150458?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
@@ -57,17 +52,12 @@ quietly building depth, one thoughtful project at a time.
   <img src="https://img.shields.io/badge/communication-1f1f1f?style=flat-square&logo=wechat&logoColor=white"/>
   <img src="https://img.shields.io/badge/problem_framing-1f1f1f?style=flat-square&logo=abstract&logoColor=white"/>
 </p>
-
 ---
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/ffb6c1/kalika9-debug" />
+  <img src="https://ghchart.rshah.org/f2a7b5/kalika9-debug" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalika9-debug&theme=tokyo-night-pink&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalika9-debug&show_icons=true&theme=rose_pine&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalika9-debug&theme=github-compact&hide_border=true" />
 </p>
