@@ -1,18 +1,18 @@
 <!-- HEADER -->
-<h1 align="center">kalika ✦</h1>
+<h1 align="center">kalika ✿</h1>
 <p align="center">
-  building things that make sense, not just run
+  turning data into something that actually means something
 </p>
 
 ---
 
-## 🪞 about me
+## 🌷 about me
 
-I work with data that isn’t always meaningful — and shape it into something that is.  
-Right now, I’m learning to build projects that go beyond execution, focusing on clarity, reasoning, and real-world impact.  
+I work with data that isn’t always dear to me and turn it into something that is.  
 
-Even when something works, I still ask *why*.  
-Quietly building depth, one project at a time.
+I’m learning to build projects that go beyond just running — they make sense, they explain themselves. I care more about *why it works* than just making it work.  
+
+quietly building depth, one thoughtful project at a time.
 
 ---
 
@@ -47,22 +47,21 @@ Quietly building depth, one project at a time.
 ## 📊 github
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalika9-debug&theme=tokyonight&hide_border=true&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kalika9-debug&theme=rose_pine&hide_border=true&show_icons=true"/>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=kalika9-debug&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=kalika9-debug&theme=rose_pine&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalika9-debug&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalika9-debug&layout=compact&theme=rose_pine&hide_border=true"/>
 </p>
 
 ---
 
-## ✍️ note to self
+## ✧ little note
 
-> build things that explain themselves.  
-> not everything needs to be loud to be powerful.
+> soft work, strong thinking.
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kalika9-debug&color=8A2BE2&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=kalika9-debug&color=ffb6c1&style=flat-square"/>
 </p>
