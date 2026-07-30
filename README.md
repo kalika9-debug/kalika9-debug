@@ -54,21 +54,6 @@ quietly building depth, one thoughtful project at a time.
 </p>
 ---
 
----
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/e06686/kalika9-debug" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalika9-debug&theme=github-compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalika9-debug&show_icons=true&theme=default&hide_border=true"/>
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e06686,100:e06686&height=20&section=footer"/>
